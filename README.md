@@ -4,7 +4,7 @@
 
 I've just discovered [Typer](https://typer.tiangolo.com/), a library for building command-line interfaces (CLIs) in Python. It's built on top of Click and uses Python's type hints to provide a simple and intuitive way to create CLIs.
 
-This is [FastAPI](https://fastapi.tiangolo.com/) sigling.
+This is [FastAPI](https://fastapi.tiangolo.com/) sibling.
 
 ## Why?
 
