@@ -10,6 +10,16 @@ This is [FastAPI](https://fastapi.tiangolo.com/) sibling.
 
 Instead of adding this to my bookmarks, I will just go ahead and create a repo for it. I will add more examples as I learn more about Typer.
 
+## Directory
+
+```plaintext
+.
+├── README.md         # This file
+├── main.py           # Welcome program
+├── 001-hello_world/
+│   └── hello_name.py       # Hello, Name! program
+```
+
 ## Installation Log
 
 ```sh
